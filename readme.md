@@ -125,6 +125,7 @@
 - [Tailwindcss Starter](https://github.com/simoebenhida/tailwindcss-starter) - A tailwindcss boilerplate. By [@simoebenhida](https://github.com/simoebenhida)
 - [Tailwindcss Twitter Page](https://github.com/simoebenhida/tailwindcss-twitter-page) - A twitter profile made with tailwindcss. By [@simoebenhida](https://github.com/simoebenhida)
 - [Tailwindcss Paypal Page](https://github.com/simoebenhida/tailwindcss-paypal-page) - A paypal page made with tailwindcss. By [@simoebenhida](https://github.com/simoebenhida)
+- [hotory](https://www.npmjs.com/package/hotory) - hotory is a naked & pure CSS framework based on Stylus. By [@bourhaouta](https://github.com/bourhaouta)
 
 #### AI
 
